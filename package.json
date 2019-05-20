@@ -1,5 +1,5 @@
 {
-  "name": "simple-locks",
+  "name": "@dnetherton/simple-locks",
   "version": "1.0.0",
   "description": "Provide a basic file based locking interface",
   "repository": "git@github.com:vipoo/simple-locks.git",
